@@ -1,4 +1,4 @@
-# 🔐 Advanced Fingerprint Library
+# 🔐 Advanced Fingerprinting Library
 
 <div align="center">
 
