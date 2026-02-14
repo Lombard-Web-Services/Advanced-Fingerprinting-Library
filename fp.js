@@ -460,8 +460,9 @@
     Fingerprint.session = function() {
         return new Fingerprint({ scope: 'session' });
     };
+	
     // ═══════════════════════════════════════════════════════════════════════
-	// Static Comparison Method (à ajouter après Fingerprint.generateAsync)
+	// Static Comparison Method
 	// ═══════════════════════════════════════════════════════════════════════
 
 	/**
